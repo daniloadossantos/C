@@ -1,0 +1,4 @@
+1) questao sobre "fim da linha do programa"
+2) "exemplos de entrada" é sem o printf ("A:")?
+3) preciso incluir #include <stdlib.h> e etc?
+4) preciso fazer scanf("%.2lf", &vlrHora), quando o exercicio pede entrada com 2 casas decimais?
